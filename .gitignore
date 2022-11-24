@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/Homework14-3-inherit.iml
+/.gitignore
